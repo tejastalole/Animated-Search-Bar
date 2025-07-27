@@ -22,7 +22,6 @@
 
 ![Preview](result1.png)  
 ![Preview](result2.PNG)
-*A sleek animated neumorphism search bar with microphone integration.*
 
 ---
 
