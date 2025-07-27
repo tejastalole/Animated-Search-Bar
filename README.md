@@ -20,7 +20,7 @@
 
 ## 📸 Preview
 
-![Preview](result1.png)  
+![Preview](result1.PNG)  
 ![Preview](result2.PNG)
 
 ---
